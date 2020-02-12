@@ -1,7 +1,2 @@
-# StayAwayFrog
-
-UIViewPropertyAnimator
-
-loading GIF in UIImageView
-
-Just to showcase Rudimentary form of bigger games
+![](files/read.gif)
+Simple sprite game implementation in swift
